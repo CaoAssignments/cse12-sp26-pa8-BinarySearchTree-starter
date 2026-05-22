@@ -1,6 +1,6 @@
 # CSE 12 PA8: BST
 
-Due date: Tuesday, June 2nd @ 11:59 PM PT (note: PA8 resubmission will be due Sunday, June 7th @ 11:59PM PT)
+Due date: **Tuesday, June 2nd @ 11:59 PM PT** (note: PA8 resubmission will be due Sunday, June 7th @ 11:59PM PT)
 
 There is an FAQ post on Piazza. Please read that post first if you have any questions.
 
