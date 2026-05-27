@@ -24,8 +24,8 @@ abstract public class SortingExperiment {
     // Member Data  //
     //////////////////
 
-    protected int comparisons;
-    protected int movements;
+    protected long comparisons;
+    protected long movements;
     protected long time;
     protected boolean sorted;
     protected int count;
@@ -42,11 +42,11 @@ abstract public class SortingExperiment {
         time = (end - start) / 1000;
     }
 
-    public int getComparisons() {
+    public long getComparisons() {
         return comparisons;
     }
 
-    public int getMovements() {
+    public long getMovements() {
         return movements;
     }
 
