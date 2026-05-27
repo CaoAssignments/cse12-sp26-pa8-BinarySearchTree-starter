@@ -1,3 +1,11 @@
+/*
+    IMPORTANT: This file is for your reference only and is part of the source
+    code used to create SortDetective. You are not expected to run this file.
+    If you want syntax highighting, feel free to rename the file to .java
+    (remove .txt). It seems to work fine on VSCode but IntelliJ fails to 
+    compile and doesn't let you run tests. 
+*/
+
 package edu.ucsd.cse12;
 /*
  * @(#)edu.ucsd.cse12.SortingExperiment.java  1.0  17 August 2001
